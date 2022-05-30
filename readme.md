@@ -6,7 +6,7 @@
 
 ### 2 - Access bash in python container
 
-> docker exec -it python bash
+> docker exec -it python3 bash
 
 ***
 
