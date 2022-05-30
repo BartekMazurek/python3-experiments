@@ -1,18 +1,18 @@
 # OPERATIONS ON STRING
 
-testString = 'Some random text'
+test_string = "Some random text"
 
 # PRINT FIRST LETTER
-print('First letter: ', testString[0])
+print("First letter: ", test_string[0])
 
 # PRINT LAST LETTER
-print('Last letter: ', testString[-1])
+print("Last letter: ", test_string[-1])
 
 # PRINT WHOLE TEXT - : OPERATOR
-print('Print whole text: ', testString[:])
+print("Print whole text: ", test_string[:])
 
 # PRINT WHOLE TEXT WITHOUT FIRST LETTER
-print('Print text again without first letter: ', testString[1:])
+print("Print text again without first letter: ", test_string[1:])
 
 # PRINT WHOLE TEXT WITHOUT LAST LETTER
-print('Print text again without last letter: ', testString[:-1])
+print("Print text again without last letter: ", test_string[:-1])

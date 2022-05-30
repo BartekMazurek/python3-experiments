@@ -1,5 +1,5 @@
 # import math
 from math import sqrt
 
-squareRoot = sqrt(4)
-print(squareRoot)
+square_root = sqrt(4)
+print(square_root)

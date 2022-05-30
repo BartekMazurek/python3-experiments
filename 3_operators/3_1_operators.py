@@ -1,36 +1,36 @@
 # COMPARE OPERATORS
 
 # 1
-# firstValue = int(input('Enter first value: '))
-# secondValue = int(input('Enter second value: '))
-firstValue = 1
-secondValue = 2
+# first_value = int(input('Enter first value: '))
+# second_value = int(input('Enter second value: '))
+first_value = 1
+second_value = 2
 
-if firstValue > secondValue:
-    print('First value greater than second one')
-    print('First condition')
-elif firstValue == secondValue:
-    print('Values are equal')
-    print('Second condition')
+if first_value > second_value:
+    print("First value greater than second one")
+    print("First condition")
+elif first_value == second_value:
+    print("Values are equal")
+    print("Second condition")
 else:
-    print('Second value greater than first one')
-    print('Third condition')
+    print("Second value greater than first one")
+    print("Third condition")
 
-print('Checked')
+print("Checked")
 
 # 2
-# thirdValue = False
-# thirdValue = 0
-thirdValue = True
+# third_value = False
+# third_value = 0
+third_value = True
 
-if thirdValue:
-    print('Value is set')
+if third_value:
+    print("Value is set")
 
 # 3
-fourthValue = 4
-fifthValue = 4
+fourth_value = 4
+fifth_value = 4
 
-if (fourthValue % 2 == 0) and (fifthValue % 2 == 0):
-    print('Even values')
+if (fourth_value % 2 == 0) and (fifth_value % 2 == 0):
+    print("Even values")
 else:
-    print('Odd values')
+    print("Odd values")

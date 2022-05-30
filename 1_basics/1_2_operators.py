@@ -4,47 +4,47 @@
 first = 1
 second = 3
 
-firstResult = first + second
-print('Add', firstResult)
+first_result = first + second
+print("Add: ", first_result)
 
 # SUBTRACT
 third = 2
 fourth = 2
 
-secondResult = third - fourth
-print('Subtract', secondResult)
+second_result = third - fourth
+print("Subtract: ", second_result)
 
 # MULTIPLY
 fifth = 5
 sixth = 5
 
-thirdResult = fifth * sixth
-print('Multiply', thirdResult)
+third_result = fifth * sixth
+print("Multiply: ", third_result)
 
 # DIVIDE
 seventh = 10
 eighth = 5
 
-fourthResult = 10 / 5
-print('Divide', fourthResult)
+fourth_result = 10 / 5
+print("Divide: ", fourth_result)
 
 # POWER
 ninth = 2
 tenth = 3
 
-fifthResult = ninth ** tenth
-print('Power', fifthResult)
+fifth_result = ninth**tenth
+print("Power: ", fifth_result)
 
 # DIVIDE "FLOOR"
 eleventh = 9
 twelfth = 4
 
-sixthResult = eleventh // twelfth
-print('Divide floor', sixthResult)
+sixth_result = eleventh // twelfth
+print("Divide floor: ", sixth_result)
 
 # MODULO
 thirteenth = 4
 fourteenth = 3
 
-seventhResult = thirteenth % fourteenth
-print('Modulo', seventhResult)
+seventh_result = thirteenth % fourteenth
+print("Modulo: ", seventh_result)

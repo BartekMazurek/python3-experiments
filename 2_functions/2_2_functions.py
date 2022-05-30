@@ -1,4 +1,4 @@
-firstname = 'jOHN'
+firstname = "jOHN"
 
 # OPERATE ON VARIABLE COPY
 print(firstname.capitalize())

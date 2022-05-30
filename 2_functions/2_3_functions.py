@@ -1,4 +1,4 @@
 # GET INPUT DATA FROM USER AS STRING
-inputData = input("Enter some data: ")
+input_data = input("Enter some data: ")
 
-print(inputData)
+print(input_data)
